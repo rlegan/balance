@@ -1,4 +1,4 @@
-Discord alternative to 42 (old) bot called `La Balance`.
+Discord alternative to 42 (old) bot Slack bot called `La Balance`.
 
 It sends a message with the old version and the new version of a recently modified message sent from a user (really annoying).
 
